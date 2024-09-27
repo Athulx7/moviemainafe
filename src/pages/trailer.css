@@ -1,0 +1,25 @@
+
+
+
+
+.traler-button{
+   background-color: #ffffff;
+   color: #0d6efd;
+   border:solid white;
+
+
+}
+.traler-button:hover{
+    background-color: #0d6efd;
+    color: #ffffff;
+    transition: 1s;
+    border-radius: 10px;
+    height: 40px;
+
+}
+
+/* tariler card */
+
+.zooming:hover{
+    transform: 1;
+}

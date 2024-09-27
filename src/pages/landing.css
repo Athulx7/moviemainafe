@@ -1,0 +1,87 @@
+.landing-container{
+    width: 98%;
+    align-items: center;
+
+}
+.mainInsideBanner{
+    width: 40rem;
+    height: 40rem;
+     /* background-color: brown;  */
+    margin-top: 5rem;
+    margin-left: 5rem;
+}
+
+.insidebanner1{
+    width: 120px;
+    height: 30px;
+    background-color:rgb(255, 130, 37) ;
+    margin-top: 5rem;
+    margin-left: 10rem;
+    border-radius: 10px;
+    color: white;
+   
+}
+.insidebanner2{
+    width: 120px;
+    height: 30px;
+    background-color:rgb(255, 130, 37) ;
+    margin-top: 5rem;
+    margin-left: 5rem;
+    border-radius: 10px;
+    color: white;
+   
+}
+.yearINsideBanner{
+    font-size: 18px;
+}
+.yearINsideBanner1{
+    font-size: 18px;
+
+}
+.bannerIsideHEading{
+    margin-top: 2rem;
+    margin-left: auto;
+    margin-right: auto;
+    color: rgb(255, 255, 255);
+    width: 35rem;
+    height: 80px;
+    /* background-color: #083c84;
+    border-radius: 20px; */
+    
+    
+}
+.buttons{
+    margin-top: 9rem;
+    margin-left: 16rem;
+    width: 10rem;
+    height: 3rem;
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 20px;
+    border: solid ;
+    
+}
+.buttons:hover{
+    opacity: .9;
+    background-color: white;
+    color: #0d6efd;
+}
+
+.buttons2{
+    margin-top: -1rem;
+    margin-left: 40rem;
+    width: 10rem;
+    height: 3rem;
+    background-color: #0d6efd;
+    color: white;
+    border-radius: 20px;
+    border: solid ;
+}
+.buttons2:hover{
+    opacity: .9;
+    background-color: white;
+    color: #0d6efd;
+}
+
+
+

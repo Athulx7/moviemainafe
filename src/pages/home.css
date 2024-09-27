@@ -1,0 +1,30 @@
+.Homebuttons1{
+   margin-left: 50px;
+   height: 3rem;
+   width: 15rem;
+   border: solid 2px;
+   border-radius: 10px;
+   background-color: #0d6efd;
+   color: white;
+}
+
+.Homebuttons1:hover{
+    background-color: white;
+    color: #0d6efd;
+    transition: 1s;
+}
+.Homebuttons2{
+    margin-left: 50px;
+   height: 3rem;
+   width: 15rem;
+   border: solid 2px;
+   border-radius: 10px;
+   background-color: #ffffff;
+   color: #0d6efd;
+
+}
+.Homebuttons2:hover{
+    background-color: #0d6efd;
+    color: #ffffff;
+    transition: 1s;
+}

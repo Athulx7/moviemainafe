@@ -1,0 +1,9 @@
+.hoveringstyle{
+    font-size: 30px;
+    
+}
+.movies:hover{
+
+    transition: 1.2s;
+    transform: scale(1.10);
+}

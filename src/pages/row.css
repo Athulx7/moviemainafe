@@ -1,0 +1,19 @@
+.row-sub1{
+    width: 12rem;
+    height: 18rem;
+    background-color: #0d6efd;
+    border-radius: 15px;
+    
+    
+}
+.moving-row{
+    display: inline flex;
+    overflow-x:hidden;
+   
+
+    
+}
+::-webkit-scrollbar {
+    display: none;
+}
+

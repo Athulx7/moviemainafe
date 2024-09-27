@@ -1,0 +1,1 @@
+export const serverurl = "https://moviemaina-backend.onrender.com"
